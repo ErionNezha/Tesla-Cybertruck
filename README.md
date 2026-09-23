@@ -4,11 +4,11 @@
 
 ## Përshkrimi
 
-Faqe prezantuese **Tesla Cybertruck** me dizajn futuristik — makina është vizatuar **100% me CSS**, pa asnjë imazh. Përshtatur në shqip nga Erion Nezha.
+Faqe prezantuese **Tesla Cybertruck** me dizajn futuristik — makina është vizatuar **100% me CSS**, pa asnjë imazh. Krijuar nga Erion Nezha.
 
 Demo ilustron formën ikonike këndore të Cybertruck me ndriçim neoni: dritat LED përpara, rrotat, dhe siluetën e çeliktë inox — gjithçka e ndërtuar me gradientë CSS.
 
-> **Shënim:** Kjo faqe është një demo kreative. Tesla dhe Cybertruck janë marka tregtare të Tesla, Inc. Ilustrimi origjinal CSS vjen nga një tutorial publik (kanali Telegram "codingtemplate") dhe është përshtatur këtu në shqip.
+> **Shënim:** Kjo faqe është një demo kreative. Tesla dhe Cybertruck janë marka tregtare të Tesla, Inc.
 
 ## Demo live
 
@@ -31,7 +31,7 @@ cd Tesla-Cybertruck
 
 ## Licenca
 
-MIT — shiko [LICENSE](LICENSE).
+Të gjitha të drejtat e rezervuara © 2026 Erion Nezha — shiko [LICENSE](LICENSE).
 
 ---
 
@@ -39,11 +39,11 @@ MIT — shiko [LICENSE](LICENSE).
 
 ## Description
 
-A **Tesla Cybertruck** showcase page with a futuristic design — the truck is drawn **100% in CSS**, with no images. Localized in Albanian by Erion Nezha.
+A **Tesla Cybertruck** showcase page with a futuristic design — the truck is drawn **100% in CSS**, with no images. Created by Erion Nezha.
 
 The demo renders the iconic angular shape of the Cybertruck with neon lighting: the LED light bar at the front, the wheels, and the stainless-steel silhouette — everything built from CSS gradients.
 
-> **Note:** This is a creative demo. Tesla and Cybertruck are trademarks of Tesla, Inc. The original CSS artwork comes from a public tutorial (Telegram channel "codingtemplate") and is adapted here in Albanian.
+> **Note:** This is a creative demo. Tesla and Cybertruck are trademarks of Tesla, Inc.
 
 ## Live demo
 
@@ -66,4 +66,4 @@ cd Tesla-Cybertruck
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+All rights reserved © 2026 Erion Nezha — see [LICENSE](LICENSE).
