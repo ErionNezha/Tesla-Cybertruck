@@ -96,3 +96,14 @@ body {
 .page-footer strong {
   color: #9fb3c8;
 }
+
+/* Responsive: parandalo scroll-in horizontal në ekrane të vogla */
+body {
+  overflow-x: hidden;
+}
+@media (max-width: 700px) {
+  #cybertruck {
+    transform: scale(0.55);
+    transform-origin: center;
+  }
+}
